@@ -1,4 +1,4 @@
-# Causal Map Builder
+# Causal Map Builder - The Artificial Facilitator
 The world of Alexa has been explored to create an Artificial Facilitator who will guide a participant in developing causal maps.
 
 Currently participants interested in developing causal models have often done it with the support of a trained facilitator, who elicits concepts and causal relations. 
